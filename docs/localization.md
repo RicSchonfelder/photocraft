@@ -16,6 +16,7 @@ contextual, command-ID and plural translations; missing entries fall back to Eng
 | Français | `fr` | singular for 0 and 1 / plural for 2+ |
 | 繁體中文 | `zh-hant` | one form |
 | Español | `es` | one / other |
+| Português (Brasil) | `pt-br` | one / other |
 | Čeština | `cs` | one / few / other |
 | Bahasa Indonesia | `id` | one form |
 
